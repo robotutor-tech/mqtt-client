@@ -1,0 +1,28 @@
+{
+  "name": "MqttClient",
+  "version": "1.0.1",
+  "description": "MQTT Client library for PlatformIO",
+  "keywords": ["mqtt", "client", "communication"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/robotutor-tech/mqtt-client.git"
+  },
+  "authors": [
+    {
+      "name": "Shivam Rajput",
+      "email": "shivam.rajput@robotutortech.com",
+      "url": "https://www.robotutortech.com/profiles/leaders/shivam-rajput",
+      "maintainer": true
+    },
+    {
+      "name": "Robotutor tech",
+      "email": "software-support@robotutortech.com",
+      "url": "https://www.robotutortech.com",
+      "maintainer": true
+    }
+  ],
+  "license": "MIT",
+  "frameworks": ["arduino"],
+  "platforms": ["espressif8266", "espressif32", "atmelavr"],
+  "dependencies": {}
+}
